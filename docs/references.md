@@ -1,0 +1,2 @@
+- [NIST Report on Blockchain](https://example.com)  
+- [IEEE: Trends in AI (2023)](https://example.com)  
